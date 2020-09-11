@@ -1,6 +1,8 @@
 # speech_separation_following_up
 sharing interesting code or papers
 
+##Must-read##
+
 [1]  Deep learning for monaural speech separation,Po-Sen Huang, 2014.
 
 [2] Joint Optimization of Masks and Deep Recurrent Neural Networks for Monaural Source Separation, Po-Sen Huang, 2015
