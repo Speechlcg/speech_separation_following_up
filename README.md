@@ -31,7 +31,7 @@ sharing interesting code or papers
 
 [15] Voice Separation with an Unknown Number of Multiple Speakers, Eliya Nachmani, 2020
 
-[16] AN EMPIRICAL STUDY OF CONV-TASNET, Berkan Kadıoglu , 2020
+[16] An empirical study of conv-tasnet, Berkan Kadıoglu , 2020
 
-[17] avesplit: End-to-End Speech Separation by Speaker Clustering, Neil Zeghidour, 2020 
+[17] Wavesplit: End-to-End Speech Separation by Speaker Clustering, Neil Zeghidour, 2020 
 
